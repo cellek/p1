@@ -3,6 +3,10 @@ import java.util.Scanner;
 
 public class Main {
 	
+	public int hi() {
+		System.out.println("Hi World");
+	}
+	
 	public static int countEven(int[] osman) {
 		int count = 0;
 		for (int i=0; i<osman.length; i++) {
