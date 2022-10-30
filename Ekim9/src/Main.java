@@ -3,6 +3,10 @@ import java.util.Scanner;
 
 public class Main {
 	
+	public void orkun() {
+		
+	}
+	
 	public static int countEven(int[] osman) {
 		int count = 0;
 		for (int i=0; i<osman.length; i++) {
